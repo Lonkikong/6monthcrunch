@@ -42,6 +42,7 @@ public class Test {
 		
 		String byteString = Byte.toString(bigByte);
 		
+//		Hier werden viele Variablen definiert und geparsed
 		byteString = Byte.toString(bigByte);
 		String shortString = Short.toString(bigshort);
 		String intString = Integer.toString(bigInt);
@@ -50,12 +51,12 @@ public class Test {
 		String doubleString = Double.toString(bigByte);
 		
 		int aDoubleValue = (int) 3.1456466464;
-		int doubleToInt = (int) aDoubleValue;
+		int doubleToInt = aDoubleValue;
 		
-		int stringToInt = Integer.parseInt(inString);
-		
-		parseShort, parselong, ParseByte, parseFloat, parseDouble, parseboolean;
+//		parseShort, parseLong, parseByte, ParseFloat, parseDouble, parseBoolean;
 		System.out.println(doubleToInt);
+		
+		System.out.println("Das Ergebnis von allem ist = "+(int)bigByte+(int)bigshort);
 		
 }
 }
