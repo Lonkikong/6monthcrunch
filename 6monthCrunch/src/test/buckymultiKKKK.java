@@ -1,13 +1,11 @@
 package test;
 
 public class buckymultiKKKK {
-	public  void simpleMessage() {
+	public  void simpleMessage(String name) {
 		
-		System.out.println("the second class");
+		System.out.println("Hello " + name+ " It´s Ice to see you");
 		
 	}
-	public void simpleMessage2(){
-		
-		System.out.println("and here´s another message");
-	}
+	
+	
 }
