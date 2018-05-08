@@ -5,6 +5,10 @@ public class buckymultiKKKK {
 		
 		System.out.println("Hello " + name+ " It´s Ice to see you");
 		
+	}public  void simpleMessage2(String name) {
+		
+		System.out.println("ma nemmis " + name);
+		
 	}
 	
 	

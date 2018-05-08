@@ -14,6 +14,8 @@ import java.util.Scanner;
 		answer= fnum + snum;
 		System.out.println (answer);
 		
+		batman.close();
+		
 		
 		
 		

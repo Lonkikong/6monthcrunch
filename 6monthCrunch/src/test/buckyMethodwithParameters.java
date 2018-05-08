@@ -14,6 +14,8 @@ import java.util.Scanner;
 		String name = input.nextLine();
 		
 		batmanObject.simpleMessage(name);
+		
+		input.close();
 	}
 	
 }

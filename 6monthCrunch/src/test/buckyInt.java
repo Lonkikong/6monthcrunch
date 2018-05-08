@@ -15,6 +15,9 @@ class buckyInt
 		joker =  15;
 		alfred = batman*joker+2;
 		System.out.println(alfred);
+		
+		 gundam.close();
+		
 	}
 	
 	

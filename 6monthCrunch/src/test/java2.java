@@ -36,19 +36,6 @@ public class java2 {
 			numEntered ++;
 			
 			
-			int numberABS = Math.abs(numEntered);
-			
-			int whichIsBigger = Math.max(5, 7); //7
-			
-			int whichIsBigger2 = Math.min(5, 7); //5
-		
-			double numSqrt = Math.sqrt(5.23);
-			
-			int numCieling= (int) Math.ceil(5.23); //6
-			
-			int numCieling2 = (int) Math.floor(5.23); //5
-			
-			int randomNumer = (int) (Math.random() *11);
 			
 		
 		} else {
