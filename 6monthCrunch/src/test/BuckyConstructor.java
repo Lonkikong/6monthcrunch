@@ -5,9 +5,14 @@ public class BuckyConstructor {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 	
-		batman BuckyConstructer2Object = new batman();
+		BuckyConstructer2 objecttest1 = new BuckyConstructer2("kelsy");
+	
 		
-		BuckyConstructer2Object.saying();
+		objecttest1.saying();
+	
+		BuckyConstructer2 objecttest2 = new BuckyConstructer2("big MOM");
+		
+		objecttest2.saying2();
 		
 		
 
