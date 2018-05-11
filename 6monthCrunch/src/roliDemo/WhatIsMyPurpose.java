@@ -11,13 +11,13 @@ public class WhatIsMyPurpose {
 		WhatIsMyPurpose testObject = new WhatIsMyPurpose();
 	
 		
-		System.out.println("What´s my purpose");
+		System.out.println("Programm : What´s my purpose");
 		String name = input.nextLine();
 		
 		
 		
 		Scanner input2= new Scanner (System.in);
-		System.out.println("Oh no");
+		System.out.println("Programm: Oh no");
 		String name2 = input2.nextLine();
 		
 		
