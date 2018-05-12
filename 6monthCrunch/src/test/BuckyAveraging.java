@@ -21,7 +21,11 @@ public class BuckyAveraging {
 		
 		average = total/10;
 		System.out.println("your answer is " + average);
+	
+	input.close();
 	}
+	
+	
 	
 	
 
